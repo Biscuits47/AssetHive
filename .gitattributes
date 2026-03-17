@@ -2,3 +2,5 @@ release/AssetHive-win32-x64-5/AssetHive.exe filter=lfs diff=lfs merge=lfs -text
 release/AssetHive-win32-x64-5/resources/app.asar filter=lfs diff=lfs merge=lfs -text
 release/latest/AssetHive.exe filter=lfs diff=lfs merge=lfs -text
 release/latest/resources/app.asar filter=lfs diff=lfs merge=lfs -text
+release/AssetHive-win32-x64-*/AssetHive.exe filter=lfs diff=lfs merge=lfs -text
+release/AssetHive-win32-x64-*/resources/app.asar filter=lfs diff=lfs merge=lfs -text
